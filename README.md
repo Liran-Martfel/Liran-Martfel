@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Liran Martfel! 👋
 
-<!--
-**Liran-Martfel/Liran-Martfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Scientist & AI Developer
+I am a highly motivated student at **E-com College**, specializing in Data Science and AI Development. With a strong background in Electronics Engineering (Honors), I bring a methodical and analytical approach to solving complex problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Skills
+* **Languages:** Python (Advanced), SQL
+* **Data Science:** Data Analysis, Data Visualization, Statistical Modeling
+* **AI & ML:** Machine Learning Algorithms, Deep Learning, AI Development Tools
+* **Engineering:** Electronics Engineering, System Logic & Optimization
+
+---
+
+### 📚 Education & Certifications
+* **AI & Data Science Specialist Program** | E-com College (400+ hours of intensive training)
+    * *Focus: Python, Machine Learning, Data Science, and AI Dev Tools.*
+* **Practical Electronics Engineer** | Kinneret College (Graduated with Honors)
+* **Financial Consultant Certification** | Specialized in economic optimization and market analysis.
+
+---
+
+### 📈 Current Learning Path
+I am currently deep-diving into:
+- 🤖 Advanced Machine Learning models.
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Liran Martfel](https://www.linkedin.com/in/liran-martfel-b31863236/)
+- **Email:** liran.martfel@gmail.com
+
+---
+
+*"Passionate about transforming data into actionable insights and building the next generation of AI-driven tools."*
