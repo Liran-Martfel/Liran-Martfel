@@ -21,11 +21,6 @@ I am a highly motivated student at **E-com College**, specializing in Data Scien
 
 ---
 
-### 📈 Current Learning Path
-I am currently deep-diving into:
-- 🤖 Advanced Machine Learning models.
-
----
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Liran Martfel](https://www.linkedin.com/in/liran-martfel-b31863236/)
